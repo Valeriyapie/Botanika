@@ -1,0 +1,11 @@
+body {
+   font-family: "Montserrat", sans-serif;
+   font-family: "Playfair Display", serif;
+}
+
+/*шапка*/
+
+.list a {
+   text-decoration: none;
+   list-style-type: none;
+}
