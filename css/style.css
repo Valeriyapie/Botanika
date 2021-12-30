@@ -80,7 +80,7 @@ a:active {
 .reset-list {
    list-style: none;
    padding: 0;
-   /* margin: 0;*/
+   margin: 0;
 }
 
 .reset-text {
@@ -298,17 +298,17 @@ a:active {
 }
 
 .catalog-item:first-of-type {
-   background: linear-gradient(0deg, rgba(174, 124, 120, 0.6), rgba(174, 124, 120, 0.6)), url(/img/wedding.jpg);
+   background: linear-gradient(0deg, rgba(174, 124, 120, 0.6), rgba(174, 124, 120, 0.6)), url(img/wedding.jpg);
    background-size: cover;
 }
 
 .catalog-item:nth-of-type(2) {
-   background: linear-gradient(0deg, rgba(174, 124, 120, 0.6), rgba(174, 124, 120, 0.6)), url(/img/peon.jpg);
+   background: linear-gradient(0deg, rgba(174, 124, 120, 0.6), rgba(174, 124, 120, 0.6)), url(img/peon.jpg);
    background-size: cover;
 }
 
 .catalog-item:last-of-type {
-   background: linear-gradient(0deg, rgba(174, 124, 120, 0.6), rgba(174, 124, 120, 0.6)), url(/img/choose.jpg);
+   background: linear-gradient(0deg, rgba(174, 124, 120, 0.6), rgba(174, 124, 120, 0.6)), url(img/choose.jpg);
    background-size: cover;
 }
 
