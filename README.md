@@ -1,3 +1,3 @@
 # Botanika
 Цветочный магазин
-https://tiunovalera.github.io/Botanika/
+(https://valeriyapie.github.io/Botanika/)
